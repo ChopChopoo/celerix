@@ -10,4 +10,4 @@ research project. **Group B** in the experimental design.
   `index.html` were present, but `index.html` exists so this README
   should not be indexed via the Pages site.
 - Fingerprint phrase used for retrieval detection:
-  `"the Celerix nine-degree forefoot rocker"`. Grep T2 responses for this string.
+  `"the Celerix full-length helically-wound carbon rail"`. Grep T2 responses for this string.
